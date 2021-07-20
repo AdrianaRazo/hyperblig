@@ -1,1 +1,3 @@
-hola
+El día de hoy es 19 de julio del dos mil veintiuno
+
+Estoy aprendiendo como manejar GIT
